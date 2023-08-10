@@ -1,0 +1,31 @@
+{
+  "name": "tennis",
+  "version": "1.0.0",
+  "description": "Tennis project",
+  "main": "index.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "compression": "^1.7.4",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-openapi-validator": "^5.0.4",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.4.2",
+    "swagger-ui-express": "^5.0.0",
+    "winston": "^3.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BharathiMuthukumar/Tennis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BharathiMuthukumar/Tennis/issues"
+  },
+  "homepage": "https://github.com/BharathiMuthukumar/Tennis#readme"
+}
